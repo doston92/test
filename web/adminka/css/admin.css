@@ -1,0 +1,26 @@
+body{
+  // background: url('../image/back4.png'), url('../image/back4_2.png'), url('../image/back3.png'),url('../image/back3_2.png');
+  // padding-top: 100px;
+  // background-size: 100% 70px, 100% 70px, 67px, 70px;
+  // background-repeat: no-repeat, no-repeat, repeat-y, repeat-y;
+  // background-position: top, bottom, left 70px, right 70px;
+  // padding-bottom:100px;
+}
+.admin{
+	// padding-bottom: 100px;
+}
+.fixed{
+	position: fixed!important;
+	z-index: 7;
+}
+.disabled > span,.prev > span{
+	height: 40px!important;
+	// background: red!important;
+}
+// .grid-view,.table{
+//   width: 100%;
+//   // background: red;
+// }
+td{
+  word-break: break-all
+}
